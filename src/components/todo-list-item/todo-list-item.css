@@ -4,7 +4,7 @@
   
   .todo-list-item button {
     width: 35px;
-    margin: 3px;
+    margin: 5px;
   }
   
   .todo-list-item-label {
@@ -20,6 +20,6 @@
   
   .todo-list-item.important .todo-list-item-label {
     font-weight: bold;
-    color: steelblue;
+    color: rgb(82, 132, 173);
   }
   
